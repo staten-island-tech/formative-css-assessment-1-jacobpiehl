@@ -6,7 +6,13 @@ body {
 
 }
 
+div {
+    height: 100vh;
+    background-image: url("paper.gif");
+    background-image: linear-gradient(blue,purple);
 
+
+}
 
 }
 .header {
