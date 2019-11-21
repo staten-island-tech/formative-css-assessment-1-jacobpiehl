@@ -1,0 +1,53 @@
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background-image: linear-gradient(
+        to right bottom,
+        rgba(255, 90, 9, 0.5),
+        rgba(236, 127, 55, 0.5)
+      ),
+      url(fall-1072821_1920.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  div {
+    height: 100vh;
+    text-align: center;
+  
+    color: white;
+  }
+  h1 {
+    font-size: 75px;
+  }
+  ul {
+    font-size: 30px;
+    list-style: none;
+  }
+  li {
+    text-transform: uppercase;
+  }
+  
+  li:last-child {
+    text-decoration: line-through;
+  }
+  li:nth-of-type(2) {
+    text-decoration: underline;
+  }
+  #test2 {
+    color: violet;
+  }
+  .test {
+    color: orange;
+  }
+  
+  div h2 {
+    color: blue;
+  }
+  
+  ul + h2 {
+    color: #333;
+    text-transform: uppercase;
+  }

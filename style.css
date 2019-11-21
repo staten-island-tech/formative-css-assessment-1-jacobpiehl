@@ -2,41 +2,30 @@
 
 div {
     height: 100vh;
-    background-image: url("paper.gif");
-    background-image: linear-gradient(blue,purple);
+    background-image: url("astronomy-1867616_1920.jpg");
 
 
 }
 
 .Title {
     text-transform: uppercase;
-
+    color: bisque;
 
 
 
 }
+.list {
+    color: white;
 
-
-
-
-
-
-
+}
 
 .header {
     height: 100vh;
-    background-image: url("fox-45899_720.webp");
     font-style: italic;
+
 
 }
 #image {
-    height: 100vh;
-
-
-
-
-
+    height: 50vh;
+    filter: saturate(200%);
 }
-
-
-
