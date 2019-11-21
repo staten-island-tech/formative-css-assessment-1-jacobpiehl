@@ -6,10 +6,10 @@ html {
   body {
     background-image: linear-gradient(
         to right bottom,
-        rgba(255, 90, 9, 0.5),
+        rgba(106, 11, 230, 0.5),
         rgba(236, 127, 55, 0.5)
       ),
-      url(fall-1072821_1920.jpg);
+      url(02/fall-1072821_1920.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -17,7 +17,7 @@ html {
     height: 100vh;
     text-align: center;
   
-    color: white;
+    color: rgb(214, 36, 36);
   }
   h1 {
     font-size: 75px;
