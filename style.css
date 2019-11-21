@@ -8,7 +8,13 @@ div {
 
 }
 
+.Title {
+    text-transform: uppercase;
 
+
+
+
+}
 
 
 
@@ -20,14 +26,13 @@ div {
 .header {
     height: 100vh;
     background-image: url("fox-45899_720.webp");
-    background-image: linear-gradient(to bottom right, red, rgb(190, 19, 212));
     font-style: italic;
 
-
-
 }
-#lol {
-    height: 100px;
+#image {
+    height: 100vh;
+
+
 
 
 
