@@ -6,12 +6,12 @@ html {
   body {
     background-image: linear-gradient(
         to right bottom,
-        rgba(106, 11, 230, 0.5),
+        rgba(17, 5, 32, 0),
         rgba(236, 127, 55, 0.5)
       ),
       url(02/fall-1072821_1920.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: left;
   }
   div {
     height: 100vh;
@@ -36,9 +36,10 @@ html {
   li:nth-of-type(2) {
     text-decoration: underline;
   }
-  #test2 {
-    color: violet;
-  }
+  
+
+  
+  
   .test {
     color: orange;
   }

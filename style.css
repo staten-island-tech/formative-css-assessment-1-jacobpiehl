@@ -1,21 +1,30 @@
 
 
+body {
+
+    background-image: linear-gradient(
+        to right bottom,
+        rgba(0, 142, 212, 0.822),
+        rgba(30, 240, 76, 0.836)
+    ),
+    url(02/fall-1072821_1920.jpg);
+    background-size: cover;
+    background-position: center;
+}
 div {
     height: 100vh;
-    background-image: url("astronomy-1867616_1920.jpg");
-
-
+    text-align: center;
 }
 
 .Title {
     text-transform: uppercase;
-    color: bisque;
+    color: rgb(0, 0, 0);
 
 
 
 }
 .list {
-    color: white;
+    color: rgb(0, 0, 0);
 
 }
 
